@@ -1010,3 +1010,9 @@ footer {
     border-color: #d51f32;
     transform: translateY(-2px);
 }
+
+.motto {
+    color: #fe4463;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
